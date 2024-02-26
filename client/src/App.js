@@ -1,6 +1,7 @@
+import CreateProduct from "./CreateProduct";
 const App = () => (
   <div className="app">
-    <h3>Happy hacking!</h3>
+    <CreateProduct />
   </div>
 );
 

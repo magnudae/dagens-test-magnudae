@@ -10,3 +10,11 @@ body {
   margin: 0 auto;
   max-width: 800px;
 }
+
+.flex {
+  display: flex;
+}
+
+.column {
+  flex-direction: column;
+}
